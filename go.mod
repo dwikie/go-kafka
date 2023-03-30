@@ -1,4 +1,4 @@
-module github.com/dwikie/microservice-with-kafka
+module github.com/dwikie/go-kafka
 
 go 1.20
 
